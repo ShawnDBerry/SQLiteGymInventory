@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteGymInventory</string>
+    <string name="equipment_menu_textview">Gym Equipment Menu</string>
+    <string name="equipment_selected_list_textview">Gym Equipment Selected List</string>
+    <string name="enter_your_desired_amount_text">Enter Your Desired Amount</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gym_item_select_button_text">Select</string>
+    <string name="desired_amount_text">Desired Amount</string>
+</resources>
